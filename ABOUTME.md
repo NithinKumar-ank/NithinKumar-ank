@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nithin Kumar
 - 👀 I’m interested in front-End web development.
-- 🌱 I’m currently learning Node js and Mongo DB
+- 🌱 My skills are HTML, CSS, Javascript, React js and Mongo DB
 - 💞️ I’m looking to collaborate on various enterprise applications.
 - 📫 You can reach me on email id: nithinthecoder@gmail.com and ph. no: 9154213852 
 
